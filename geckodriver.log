@@ -1,0 +1,280 @@
+1490801826684	geckodriver	INFO	Listening on 127.0.0.1:63821
+1490801828710	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.OfDm6wy9kBwv
+1490801828736	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1490801828897	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63827
+1490801832512	Marionette	INFO	Listening on port 63827
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1752:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1785:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1502:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1752:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1785:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1502:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1752:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1785:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1502:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1752:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1785:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1502:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1752:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1785:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1502:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1752:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1785:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1502:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1752:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1785:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1502:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1752:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1785:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1502:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1752:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1785:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1502:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1752:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1785:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1502:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1752:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1785:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1502:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1752:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1785:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1502:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1752:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1785:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1502:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: aAddon._installLocation is undefined
+Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1752:1
+verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1785:8
+loadManifestFromZipReader<@resource://gre/modules/addons/XPIProvider.jsm:1502:35
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+1490801841389	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1490801841393	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://wx-assistant-at-mozillaonline-dot-com/wxassistant/lib/main.js, line 67: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+[Child 9732] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+e 346
+[Child 19088] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+defined
+  Stack:
+    exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modconsole.error: 
+  Message: ReferenceError: reason is not defined
+  Stack:
+    exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:79:9
+unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:73:3
+onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:99:5
+Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+unload@resource://gre/modules/commonjs/toolkit/loader.js:948:3
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/admin/AppData/Local/Temp/rust_mozprofile.a9jF2aHqtmgM/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4944:9
+this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2907:15
+
+1\extensions\staged\cpmanager@mozillaonline.com: Error: OS.File has been shut down. Rejecting request to open (resource://gre/modules/osfile/osfile_async_front.jsm:412:8) JS Stack trace: post/<@osfile_async_front.jsm:412:8 < TaskImpl_run@Task.jsm:319:40 < TaskImpl@Task.jsm:280:3 < createAsyncFunction/asyncFunction@Task.jsm:254:14 < Handler.prototype.process@Promise-backend.js:937:23 < this.PromiseWalker.walkerLoop@Promise-backend.js:816:7 < this.PromiseWalker.scheduleWalkerLoop/<@Promise-backend.js:750:11 < Spinner.prototype.observe@AsyncShutdown.jsm:551:9
+*************************
+A coding exception was thrown in a Promise rejection callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this.installs is null
+Full stack: this.XPIProvider.removeActiveInstall@resource://gre/modules/addons/XPIProvider.jsm:4158:9
+AddonInstall.prototype.startInstall/<@resource://gre/modules/addons/XPIProvider.jsm:6472:7
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:940:21
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+Spinner.prototype.observe@resource://gre/modules/AsyncShutdown.jsm:551:9
+
+*************************
+*************************
+A coding exception was thrown in a Promise rejection callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: ReferenceError: logger is not defined
+Full stack: saveStreamAsync/readFailed/<@resource://gre/modules/ZipUtils.jsm:67:7
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:940:21
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+Spinner.prototype.observe@resource://gre/modules/AsyncShutdown.jsm:551:9
+
+*************************
+1490794065690	addons.xpi	WARN	Failed to install C:\Program Files (x86)\Mozilla Firefox\distribution\myextensions\easyscreenshot@mozillaonline.com.xpi from file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/distribution/myextensions/easyscreenshot@mozillaonline.com.xpi to C:\Users\admin\AppData\Local\Temp\rust_mozprofile.g0RXn7kVXor1\extensions\staged\easyscreenshot@mozillaonline.com: Error: OS.File has been shut down. Rejecting request to File_prototype_close (resource://gre/modules/osfile/osfile_async_front.jsm:412:8) JS Stack trace: post/<@osfile_async_front.jsm:412:8 < TaskImpl_run@Task.jsm:319:40 < TaskImpl@Task.jsm:280:3 < createAsyncFunction/asyncFunction@Task.jsm:254:14 < Handler.prototype.process@Promise-backend.js:937:23 < this.PromiseWalker.walkerLoop@Promise-backend.js:816:7 < this.PromiseWalker.scheduleWalkerLoop/<@Promise-backend.js:750:11 < Spinner.prototype.observe@AsyncShutdown.jsm:551:9
+olkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:488:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:429:5
+Line: 1651, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1651"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1651:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:488:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:429:5
+Line: 1651, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1651"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1651:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:570:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1651, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1651"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1651:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:570:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1651, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1651"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1651:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:570:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1651, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1651"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1651:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:570:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1651, column: 0
