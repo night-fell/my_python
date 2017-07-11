@@ -8,27 +8,27 @@ if __name__ == "__main__":
     print ("发送文本邮件示例")
 
     #邮件发送者
-    sender = "814235710@qq.com"
+    sender = "deep_test@126.com"
     #邮件接收者
-    receivers = "396678384@qq.com"
+    receivers = "q15110185703@126.com"
     # 发送内容构建
     # text标识发送内容为文本格式
     msg = MIMEText("测试", "plain", "utf-8")
-    msg["From"] = "814235710@qq.com"
+    msg["From"] = "deep_test@126.com"
     msg["To"] = receivers
 
     #构建邮件标题
-    msg["Subject"] = Header("练习", "utf-8")
+    msg["Subject"] = Header("回归通过", "utf-8")
 
     #smtp服务
-    smtpserver = "smtp.qq.com"
-    smtpport = 465
+    smtpserver = "smtp.126.com"
+    smtpport = 25
 
     #发件人用户名
-    username = "814235710@qq.com"
+    username = "deep_test"
 
     #发件人密码
-    password = "beipiaobashaonian"
+    password = "123456a"
 
     #构建smtp对象
     smtp = smtplib.SMTP()
