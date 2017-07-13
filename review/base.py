@@ -3,56 +3,87 @@ import math
 import cmath
 import random
 
-def trans_number(x, y):
+def trans_number(type, x=1.2, y=0):
 
+    u = input(type)
     # 将x转换为整数
-    tint = int(x)
+    if u == "int":
+        return int(x)
     # 将y转换为浮点数
-    tfloat=float(y)
+    if u == "float":
+        return float(x)
     # 将x转换为复数， 实数部分为x，虚数部分为0
-    print(complex(x))
+    if u == "complex":
+        return complex(x)
     # 将x，y转换为复数， 实数部分为x，虚数部分为y
-    print(complex(x, y))
+    if u == "complex1":
+        return complex(x, y)
 
     print(u"常用数学函数")
+
     # 返回x的绝对值
-    print(abs(x))
-
+    if u == "abs":
+        return abs(x)
     # 反回最大值
-    print(max(x, y))
-
+    if u == "max":
+        return max(x, y)
     # 返回最小值
-    print(min(x, y))
+    if u == "min":
+        return min(x, y)
 
     # 计算y^2
-    print(pow(y, 2))
+    if u == "pow":
+        return pow(y, 2)
 
     # 返回平方根
-    print(math.sqrt(y))
+    if u == "sqrt":
+        return math.sqrt(y)
 
+def fun(str, a):
+
+    u = input(str)
+    s = input(a)
     print(u"常用随机函数")
-    a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
+    #a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
 
     # 从列表a中随机选中一个
-    print(random.choice(a))
+    if u == "choice":
+        return random.choice(s)
 
     # 从指定的范围(2-100按5递增的数据集)中随机选中一个
-    print(random.randrange(2, 100, 5))
+    if u == "randrange":
+        return random.randrange(2, 100, 5)
 
     # 生成一个随机数，它在(0,1)之间
-    print(random.random())
+    if u == "random":
+        return random.random()
 
-    print(u"常用三角函数")
-    x = 100
+def fun_tri(type, x):
 
+    u = input(type)
     # 返回x的反余弦弧度值
-    print(cmath.acos(x))
+    if u == "acos":
+        return cmath.acos(x)
 
     # 返回x的正弦弧度值
-    print(cmath.sin(x))
+    if u == "sin":
+        return cmath.sin(x)
 
     # 返回x的余弦弧度值
-    print(cmath.cos(x))
+    if u == "cos":
+        return cmath.cos(x)
 
-    print(u"数学常量")
-    print(cmath.pi)  # 返回π
+    if u == "π":
+        return cmath.pi
+        # 返回π
+
+trans_number1 = trans_number(int)
+print (trans_number1)
+
+fun1 = fun(random)
+print (fun1)
+
+print ("end")
+
+#fun_tri1 = fun_tri(cos,100)
+#print (fun_tri())
